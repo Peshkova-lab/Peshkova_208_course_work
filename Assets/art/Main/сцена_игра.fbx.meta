@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: 74db7a16e95f8cb49964e2cfa513dd74
+timeCreated: 1617560819
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Circle001
+    100002: CoronaLight001
+    100004: CoronaLight002
+    100006: CoronaSun001
+    100008: CoronaSun001.Target
+    100010: Donut001
+    100012: Donut002
+    100014: Donut003
+    100016: Group001
+    100018: Group002
+    100020: Line002
+    100022: Line003
+    100024: Line004
+    100026: Line005
+    100028: Line006
+    100030: Line007
+    100032: Line008
+    100034: Line009
+    100036: Line010
+    100038: Line011
+    100040: //RootNode
+    400000: Circle001
+    400002: CoronaLight001
+    400004: CoronaLight002
+    400006: CoronaSun001
+    400008: CoronaSun001.Target
+    400010: Donut001
+    400012: Donut002
+    400014: Donut003
+    400016: Group001
+    400018: Group002
+    400020: Line002
+    400022: Line003
+    400024: Line004
+    400026: Line005
+    400028: Line006
+    400030: Line007
+    400032: Line008
+    400034: Line009
+    400036: Line010
+    400038: Line011
+    400040: //RootNode
+    2300000: Circle001
+    2300002: Donut001
+    2300004: Donut002
+    2300006: Donut003
+    2300008: Line002
+    2300010: Line003
+    2300012: Line004
+    2300014: Line005
+    2300016: Line006
+    2300018: Line007
+    2300020: Line008
+    2300022: Line009
+    2300024: Line010
+    2300026: Line011
+    3300000: Circle001
+    3300002: Donut001
+    3300004: Donut002
+    3300006: Donut003
+    3300008: Line002
+    3300010: Line003
+    3300012: Line004
+    3300014: Line005
+    3300016: Line006
+    3300018: Line007
+    3300020: Line008
+    3300022: Line009
+    3300024: Line010
+    3300026: Line011
+    4300000: Line002
+    4300002: Line003
+    4300004: Donut003
+    4300006: Donut002
+    4300008: Donut001
+    4300010: Line004
+    4300012: Line010
+    4300014: Line005
+    4300016: Line006
+    4300018: Line007
+    4300020: Line008
+    4300022: Line009
+    4300024: Line011
+    4300026: Circle001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
